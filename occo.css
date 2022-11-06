@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;500&display=swap');
+@font-face {
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#eventTitle{
+  background-color:#4A67EE;
+  color:white;
+  text-align: center;
+}
+
+.img{
+   position: relative;
+   background-image: url('./img/participate.jpg') ;background-repeat: no-repeat;
+   height: 70vh;
+   background-size: cover;
+}
+.word {
+    font-family: 'NanumSquareRound';
+}
+
+.for {
+    text-align: center;
+}
+
+.bak{
+    position: relative;
+   background-image: url('./img/inin.png') ;background-repeat: no-repeat;
+   height: 60vh;
+   width: 100%;
+   background-size: cover;
+}
+
+.img .content{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+.occo {
+    text-align: center;
+    margin-top: 40px;
+}
+.gro {
+    background-color: #181715;
+}
+.fon {
+    color: white;
+    text-align: center;
+}
+
+.fon2 {
+   padding-bottom: 30px; 
+   color: white;
+}
+.foot {
+    color: white;
+    text-align: center;
+    background-color: #181715;
+}
+
+#prodcut{
+ background-color:#4A67EE;
+ text-align: center;
+}
+#share{
+ background-color:#181715;
+ color:white;
+ text-align: center;
+}
+#preview{
+ background-color:#181715;
+ color:white;
+ text-align: center;
+}
+/* 리뷰 */
+#reviewTitle{
+  background-color:#181715;
+  color:white;
+  text-align: center;
+}
+#reviewForm{
+  background-color:#181715;
+  color:white;
+  padding-top: 30px;
+}
+#preview2{
+ background-color:#181715;
+ color:white;
+ text-align: center;
+}
+#share2{
+ background-color:#181715;
+ color:white;
+ text-align: center;
+}
