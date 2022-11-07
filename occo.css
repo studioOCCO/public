@@ -29,7 +29,7 @@
 .bak{
     position: relative;
    background-image: url('./img/inin.png') ;background-repeat: no-repeat;
-   height: 60vh;
+   height: 50vh;
    width: 100%;
    background-size: cover;
 }
