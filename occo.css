@@ -71,13 +71,31 @@
 .camera {
     border-radius: 10px;
 }
+.dohyeon {
+    padding-top: 40px;
+}
 
+.occoshare {
+    color: #333333;
+}
+
+.con {
+    width: 40px;
+}
+.con1 {
+    width: 50px;
+}
+
+.con2 {
+    width: 62px;
+    padding-bottom: 8px;
+}
 #prodcut{
  background-color:#4A67EE;
  text-align: center;
 }
 #share{
- background-color:#333333;
+ background-color:#f2f2f2;
  color:white;
  text-align: center;
 }
