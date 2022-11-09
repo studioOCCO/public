@@ -26,6 +26,9 @@
     text-align: center;
 }
 
+.big {
+    border-radius: 600px;
+}
 .bak{
     position: relative;
    background-image: url('./img/inin.png') ;background-repeat: no-repeat;
